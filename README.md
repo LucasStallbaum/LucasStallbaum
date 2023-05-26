@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D93A7C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00D2&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9FEF7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LUCAS+STALLBAUM;I'AM+A+WEB+DEVELOPER!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br><br><br>
@@ -11,8 +11,8 @@
 - 📄 Know about my experiences: (Development WEB in SWA Sistemas Acadêmicos.)
 <br><br><br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasstallbaum&show_icons=true&count_private=true&hide_border=true&title_color=D93A7C&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" alt="Lucas Stallbaum github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasstallbaum&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasstallbaum&show_icons=true&count_private=true&hide_border=true&title_color=B54DFF&icon_color=B54DFF&text_color=e7e7e7&bg_color=0d1117" alt="Lucas Stallbaum github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasstallbaum&layout=compact&hide_border=true&title_color=B54DFF&text_color=d4d4d4&bg_color=0d1117" />
 </div>
 <br><br><br>
 <h3 align="left">Connect with me:</h3>
@@ -25,4 +25,4 @@
 <br><br><br><br>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D93A7C&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00D2&height=120&section=footer"/>
