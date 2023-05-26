@@ -12,7 +12,7 @@ jobs:
     steps:
       # Snake Animation
       - uses: Platane/snk@master
-        id: snake-gif
+        id: snake-gif 
         with:
           github_user_name: LucasStallbaum
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -23,3 +23,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
