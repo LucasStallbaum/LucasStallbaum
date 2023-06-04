@@ -12,10 +12,10 @@
 <br><br><br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasstallbaum&show_icons=true&count_private=true&hide_border=true&title_color=B54DFF&icon_color=B54DFF&text_color=e7e7e7&bg_color=0d1117" alt="Lucas Stallbaum github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasstallbaum&layout=compact&hide_border=true&title_color=B54DFF&text_color=d4d4d4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasStallbaum&layout=compact&hide_border=true&title_color=B54DFF&text_color=d4d4d4&bg_color=0d1117" />
 </div>
 <br><br><br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/lucas stallbaum andrade duarte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas stallbaum andrade duarte" height="30" width="40" /></a>
 <a href="https://instagram.com/luca.stallbaum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luca.stallbaum" height="30" width="40" /></a>
